@@ -1,0 +1,50 @@
+{
+  "title": "CUADERNILLO",
+  "date": "7/10/26",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "cuadernillo.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 11,
+  "mediaFiles": 24,
+  "totalSize": 2994683,
+  "files": [
+    "48301c99-ae7a-49ce-8581-18cb661a8ce5.png",
+    "665f3e2f-2dae-41ce-917d-5a3b8c6adeb8-resized.jpg",
+    "74906354-14cd-4fbe-9366-d207b6b3ba56-resized1.jpg",
+    "8cdab8ec-a28e-4c2d-ba49-3398e6edfdd2-resized.jpg",
+    "8d339b5d-9e7e-46c0-b3cc-792f8734ae85__1_-resized.jpg",
+    "afecto_tecto-resized.jpg",
+    "brocoli-resized.jpg",
+    "burger-resized.jpg",
+    "carne-resized.jpg",
+    "crucigrama/crucigrama.jclic",
+    "crucigrama/crucigrama.jclic.js",
+    "cuadernillo.jclic",
+    "cuadernillo.jclic.js",
+    "cuidado_texto.jpg",
+    "elote-resized.jpg",
+    "familia_texto.jpg",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "manzana-resized.jpg",
+    "pez-resized.jpg",
+    "picha-resized.jpg",
+    "pina-resized.jpg",
+    "portada-resized.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "prote_texto-resized.jpg",
+    "sustento_555-resized.jpg"
+  ]
+}
